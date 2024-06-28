@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Window OS and Linux OS
 - 💞️ I’m looking to collaborate on Learning things
 - 📫 How to reach me djhackandcyber@gmail.com
-- 😄 Pronouns: Dj
+- 😄 Pronouns: DJ
+
 
 
 <!---
