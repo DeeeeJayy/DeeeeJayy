@@ -1,74 +1,70 @@
-<!-- ================== CYBER BANNER ================== -->
+<!-- ================== GOD MODE BANNER ================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:000000&height=200&section=header&text=JAGADEESWAR.EXE&fontColor=00ff00&fontSize=45&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,100:000000&height=220&section=header&text=DEEEEJAYY.EXE&fontColor=00ff00&fontSize=45&animation=fadeIn"/>
 </p>
 
-<!-- ================== ACCESS ANIMATION ================== -->
+<!-- ================== CYBER BOOT ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=booting+system...;connecting+to+secure+server...;bypassing+firewall...;decrypting+data...;ACCESS+GRANTED+✔;welcome+agent+Deeeejayy" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=26&center=true&vCenter=true&width=900&lines=booting+kernel...;injecting+payload...;bypassing+security...;overriding+firewall...;ACCESS+GRANTED+✔;welcome+agent+Deeeejayy" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TRACKING-OFFLINE-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-STEALTH-00ff00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SECURITY-BREACHED-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-GOD_LEVEL-black?style=for-the-badge"/>
 </p>
 
 ---
 
-<!-- ================== TERMINAL ================== -->
-<h2>🖥️ root@kali:~# ./init_profile</h2>
+<h2>🖥️ root@kali:~# ./god_mode_init</h2>
 
 ```bash
-> establishing secure shell...
+> launching advanced shell...
+> decrypting identity...
 
 user: Deeeejayy
-role: Cyber Forensics & InfoSec Student
-specialization: digital investigation + security
+role: Cyber Forensics & InfoSec
 
-current_state:
-[██████████] 90% learning
-[████████░░] 80% hacking
-[███████░░░] 70% building
+system_status:
+[██████████] offensive security
+[█████████░] digital forensics
+[████████░░] penetration testing
 
-objective:
-- exploit vulnerabilities 🔓
-- analyze digital evidence 🧾
-- build secure systems 🛡️
-<!-- ================== LIVE LOG ================== --> <h2>📡 live_activity.log</h2>
-[+] scanning ports...
-[+] vulnerability detected...
-[+] attempting exploit...
-[✔] access granted
+directives:
+- exploit vulnerabilities
+- trace digital footprints
+- secure critical systems
+<h2>💣 attack_simulation.log</h2>
+[+] locating target...
+[+] scanning network...
+[+] ports open: 22, 80, 443
+[+] vulnerability detected (CVE-XXXX)
+[+] executing payload...
+[✔] shell access gained
 [+] privilege escalation...
 [✔] root access obtained
-[+] covering tracks...
-[✔] trace removed
-<!-- ================== SKILLS ================== --> <h2>⚡ ./skill_matrix</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,html,css,figma,github,vscode" /> </p>
+[+] wiping traces...
+[✔] system compromised successfully
+<h2>⚡ skill_core</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,html,css,figma,github,vscode" /> </p>
 Cybersecurity       ██████████░
 Digital Forensics   █████████░░
 Penetration Testing ████████░░░
 Linux               ██████████░
 UI/UX               ███████░░░░
-<!-- ================== TRYHACKME ================== --> <h2>🎯 ./tryhackme --access</h2> <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/Deeeejayy.png"/> </p>
+<h2>🎯 TryHackMe</h2> <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/Deeeejayy.png"/> </p>
 platform: TryHackMe
 user: Deeeejayy
 status: active
-mission: capture flags & learn attacks
-<!-- ================== HACKTHEBOX ================== --> <h2>🧠 ./hackthebox --connect</h2> <p align="center"> <img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox"/> </p>
-status: active learner
-difficulty: increasing...
-labs: in progress
-<!-- ================== PROJECTS ================== --> <h2>🧩 ./missions</h2>
+mission: capture flags & dominate labs
+<h2>🧠 HackTheBox</h2> <p align="center"> <img src="https://img.shields.io/badge/HackTheBox-active-9FEF00?style=for-the-badge&logo=hackthebox"/> </p>
+status: active hacker
+difficulty: rising
+<h2>🧩 mission_database</h2>
 [✔] Digital Evidence Management System
-    -> secure evidence handling
-
 [✔] Portfolio Website
-    -> responsive UI system
-
-[~] more exploits loading...
-<!-- ================== STATS ================== --> <h2>📊 ./analytics</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Deeeejayy&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeeejayy&theme=chartreuse-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeeejayy&theme=chartreuse-dark&hide_border=true"/> </p>
-<!-- ================== TROPHIES ================== --> <h2>🏆 ./achievements</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Deeeejayy&theme=matrix&no-frame=true"/> </p>
-<!-- ================== VISITOR COUNTER ================== --> <h2>👁️ ./intrusion_counter</h2> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deeeejayy&label=intrusions_detected&color=00ff00&style=flat"/> </p>
-<!-- ================== CONTACT ================== --> <h2>📡 ./secure_connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/jagadeeswar-m/"> <img src="https://img.shields.io/badge/LinkedIn-connect-00ff00?style=for-the-badge&logo=linkedin"/> </a> </p>
-<!-- ================== FOOTER ================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/> </p> <p align="center" style="color:#00ff00;"> > system shutting down... but surveillance continues 👁️ </p> ```
+[~] classified operations loading...
+<h2>📊 analytics_engine</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Deeeejayy&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deeeejayy&theme=chartreuse-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deeeejayy&theme=react-dark&hide_border=true"/> </p>
+<h2>🏆 achievement_system</h2> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Deeeejayy&theme=onestar&no-frame=true"/> </p>
+<h2>👁️ surveillance_counter</h2> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Deeeejayy&label=targets_tracked&color=ff0000"/> </p>
+<h2>📡 secure_link</h2> <p align="center"> <a href="https://www.linkedin.com/in/jagadeeswar-m/"> <img src="https://img.shields.io/badge/LinkedIn-connect-ff0000?style=for-the-badge&logo=linkedin"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/> </p> <p align="center"> <strong style="color:#ff0000;">> god mode active... system under your control_</strong> </p> ```
