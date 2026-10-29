@@ -1,222 +1,305 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                   HEADER                       -->
-<!-- ══════════════════════════════════════════════ -->
+<!-- If you are reading this source, you are my kind of person. Say hi. -->
+<!-- ═════════════════════════════ HEADER ═════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,45:2A0A18,100:7A0F2B&height=230&section=header&text=DEEEEJAYY&fontSize=68&fontColor=E8E0D5&fontAlignY=38&desc=Jagadeeswar%20Medidaraju&descSize=20&descColor=C9A0A8&descAlignY=60&animation=fadeIn" width="100%" alt="Deeeejayy"/>
 
-```
- ██████╗ ███████╗███████╗███████╗███████╗     ██╗ █████╗ ██╗   ██╗██╗   ██╗
- ██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝     ██║██╔══██╗╚██╗ ██╔╝╚██╗ ██╔╝
- ██║  ██║█████╗  █████╗  █████╗  █████╗       ██║███████║ ╚████╔╝  ╚████╔╝ 
- ██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██╔══╝  ██╗  ██║██╔══██║  ╚██╔╝    ╚██╔╝  
- ██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝██║  ██║   ██║      ██║   
- ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝  
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=C0143C&center=true&vCenter=true&width=700&lines=%E2%9B%A7+Cyber+Forensics+%26+Information+Security+%E2%9B%A7;Penetration+Testing+%7C+Digital+Forensics+%7C+Security+Tooling;Investigate.+Test.+Build.+Secure.;sudo+make+me+a+sandwich...+permission+denied;It%27s+always+DNS.;Hack+to+learn.+Learn+to+protect." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=%5B+Ethical+Hacker+%7C+CTF+Player+%7C+Cyber+Forensics+%5D;%5B+Recon.+Enumerate.+Exploit.+Report.+%5D;%5B+Hack+to+learn.+Learn+to+protect.+%5D" alt="Typing SVG" />
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C0143C?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Deeeejayy-1A0A12?style=for-the-badge&logo=tryhackme&logoColor=C0143C)](https://tryhackme.com/p/Deeeejayy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A0A12?style=for-the-badge&logo=linkedin&logoColor=C0143C)](https://www.linkedin.com/in/jagadeeswar-m/)
+
+[![Nucleus Discord](https://img.shields.io/badge/Nucleus-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GmhA4NAhqv)
 
 <br/>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Deeeejayy-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF88)](https://tryhackme.com/p/Deeeejayy)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-141D2B?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeswar-m/)
+![Coffee](https://img.shields.io/badge/Coffee-Overflow-7A0F2B?style=flat-square&logo=buymeacoffee&logoColor=white)
+![Sleep](https://img.shields.io/badge/Sleep-404_Not_Found-1A0A12?style=flat-square)
+![Ethics](https://img.shields.io/badge/Ethics-Always_Enabled-1A0A12?style=flat-square)
+![Mood](https://img.shields.io/badge/Mood-Hunting_Bugs-7A0F2B?style=flat-square)
+![Mode](https://img.shields.io/badge/Mode-Attacker_%2B_Defender-1A0A12?style=flat-square)
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                   WHOAMI                       -->
-<!-- ══════════════════════════════════════════════ -->
+<!-- ═════════════════════════════ BOOT ═════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30" /> **`$ whoami`**
+```bash
+root@deeeejayy:~# sudo ./summon_deeeejayy.sh
+[sudo] password for root: ************
+[ OK ]  Loading curiosity.ko ........................ done
+[ OK ]  Mounting /dev/coffee ........................ done
+[WARN]  sleep.service ............................... not found
+[ OK ]  Attacker mindset ............................ enabled
+[ OK ]  Defender mindset ............................ enabled (priority: high)
+[ OK ]  Ethics module ............................... always loaded
+-- Welcome. Authorized targets only. 🦇 --
+```
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="hacking"/>
+</div>
+
+<!-- ═════════════════════════════ WHOAMI ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;⛧ <code>root@deeeejayy:~# cat whoami.yml</code> ⛧</h2>
 
 ```yaml
-name        : Jagadeeswar M  [alias: Deeeejayy]
+name        : Jagadeeswar Medidaraju  [alias: Deeeejayy]
 role        : Cyber Forensics & Information Security
-focus       : Ethical Hacking · Digital Forensics · Penetration Testing
-status      : Actively learning, breaking, and securing
-platforms   : TryHackMe · HackTheBox · Linux
+focus       : Penetration Testing · Web Security · Digital Forensics
+status      : Building security tools, contributing to projects, advancing hands-on skills
+platforms   : Kali Linux · TryHackMe · CTF Labs
 mission     : Understand the attacker's mindset to build better defenses
+fuel        : caffeine (dependency: critical)
 ```
 
----
+```bash
+root@deeeejayy:~# nmap -sV -p- deeeejayy.local      # authorized target, obviously
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              SKILLS + HACKING GIF              -->
-<!-- ══════════════════════════════════════════════ -->
+PORT       STATE   SERVICE         VERSION
+22/tcp     open    curiosity       always listening
+80/tcp     open    web-security    Burp-flavored
+443/tcp    open    forensics       evidence-grade
+1337/tcp   open    ctf             elite (self-reported)
+9999/tcp   closed  sleep           connection refused
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30" /> **`$ cat /etc/skills.conf`**
+Service Info: OS: Kali Linux; CPE: cpe:/o:deeeejayy:still-learning
+```
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
 
-| Domain | Level |
+<!-- ═════════════════════════════ PROJECTS ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;† <code>root@deeeejayy:~# ls ./projects/</code> †</h2>
+
+| | |
 |---|---|
-| 🔍 Recon & OSINT | `████████░░` 80% |
-| 🌐 Network Scanning & Enumeration | `████████░░` 80% |
-| 🎯 Vulnerability Assessment | `███████░░░` 70% |
-| 💻 Web Application Security | `███████░░░` 70% |
-| 🔬 Digital Forensics | `████████░░` 80% |
-| 🐧 Linux & Bash Scripting | `█████████░` 90% |
-| 📡 Traffic Analysis | `███████░░░` 70% |
-| 🏴 CTF Challenges | `████████░░` 80% |
+| **🛡️ SecureScope** | A CLI-based security reconnaissance and passive assessment tool. 19 scanner modules and 7 assessment profiles, with HTML, JSON, and Markdown reporting. Covers CSP, HSTS, SPF, DMARC, TLS, DNS, CORS, and JavaScript/API exposure. |
+| **🔐 ONE FOR ALL** | A Kali Linux command-line utility for CTF and cryptography workflows. Automatic encoding-chain processing, hash identification, ROT / Caesar / Atbash ciphers, and XOR and RSA utilities. |
+| **📧 Email Header Investigation Tool** <br/> *Capstone project* | Investigates email headers and evaluates email authentication. SPF, DKIM, and DMARC analysis with structured header investigation workflows. Latest release: v1.3.1. |
+| **🌐 CyberRakshak** <br/> *Student project* | A cybersecurity awareness platform concept: awareness content, cybercrime and cyber-law updates, consent-based user profiles, and community information features. |
+| **🕸️ Dark-Web Intelligence Project** <br/> *CyArt internship · in progress* | A collaborative team project. My contribution is the crawling engine: library evaluation, crawling architecture, queue management, scheduling, and fetching workflows, plus module integration with teammates. |
 
-</td>
-<td align="center" width="45%">
+<!-- TODO: add ArsenalX (listed on your resume) once you confirm a short description.
+     TODO: confirm CyberRakshak status (concept, design, or in development) and edit the description to match.
+     TODO: confirm v1.3.1 is still the latest Email Header Investigation Tool release.
+     DEMS / Portfolio Website: add only if active or live. -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="hacking gif"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
 
-</td>
-</tr>
-</table>
+<!-- ═════════════════════════════ EXPERIENCE ═════════════════════════════ -->
 
----
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;☽ <code>root@deeeejayy:~# cat ./experience/*.log</code> ☾</h2>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                  TOOLBOX                       -->
-<!-- ══════════════════════════════════════════════ -->
+#### Cybersecurity Intern · CyArt
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30" /> **`$ ls ./toolbox/`**
+Contributing to a collaborative dark-web intelligence project, with a focus on the crawling engine.
 
-<div align="center">
+- Evaluating crawling libraries and implementation approaches
+- Working on crawling architecture, queue management, scheduling, and fetching workflows
+- Coordinating module development and integration with team members
+- Supporting structured development, testing, and code-review workflows
 
-**Recon & Scanning**<br/>
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-1A1A2E?style=for-the-badge&logoColor=00FF88)
-![theHarvester](https://img.shields.io/badge/theHarvester-2D2D2D?style=for-the-badge&logoColor=00FF88)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-0D1117?style=for-the-badge&logoColor=00FF88)
+#### Founder · [Nucleus](https://discord.gg/GmhA4NAhqv)
 
-**Web App Testing**<br/>
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-1A1A2E?style=for-the-badge&logoColor=00FF88)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
+Building a cybersecurity learning community focused on practical learning, collaboration, and career development.
 
-**Exploitation & Cracking**<br/>
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-1A1A2E?style=for-the-badge&logoColor=00FF88)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-2D2D2D?style=for-the-badge&logoColor=00FF88)
+- Organizing cybersecurity learning opportunities and community activities
+- Supporting CTF participation, knowledge sharing, and peer learning
+- Building community infrastructure and exploring custom Discord automation
 
-**Network & Forensics**<br/>
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge&logoColor=00FF88)
-![Autopsy](https://img.shields.io/badge/Autopsy-2D2D2D?style=for-the-badge&logoColor=00FF88)
-![Volatility](https://img.shields.io/badge/Volatility-1A1A2E?style=for-the-badge&logoColor=00FF88)
-![Binwalk](https://img.shields.io/badge/Binwalk-0D1117?style=for-the-badge&logoColor=00FF88)
+<sub>`LEARN · FUN · FREEDOM · BUILD · SHARE · PROTECT`</sub>
 
-**Environment & Scripting**<br/>
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
 
-</div>
+<!-- ═════════════════════════════ CERTIFICATIONS ═════════════════════════════ -->
 
----
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;⚰ <code>root@deeeejayy:~# cat certs.log</code> ⚰</h2>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--             MISSIONS + GITHUB STATS            -->
-<!-- ══════════════════════════════════════════════ -->
+| Credential | Issuer | Status |
+|---|---|---|
+| **Certified Penetration Testing Professional (C\|PENT)** | EC-Council | ✅ Achieved |
+| TryHackMe: Cyber Security 101 | TryHackMe | ✅ Completed |
+| TryHackMe: Junior Penetration Tester | TryHackMe | 🔄 In progress |
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30" /> **`$ cat missions.log  &&  git log --stat`**
+<!-- TODO: add a public C|PENT verification link if you have one -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
+
+<!-- ═════════════════════════════ SKILLS ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;🗝 <code>root@deeeejayy:~# cat /etc/skills.conf</code> 🗝</h2>
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="68%" valign="top">
 
-```bash
-[⟳]  Building DEMS
-     Forensic evidence mgmt system
-
-[⟳]  Portfolio Website
-     Cybersecurity-focused portfolio
-
-[⟳]  TryHackMe Paths
-     Jr Pentester · SOC Level 1
-
-[⟳]  HackTheBox Labs
-     Retired machines & challenges
-
-[◌]  CVE Writeups
-     Future responsible disclosures
-```
+| Domain | Focus |
+|---|---|
+| 🔍 **Reconnaissance & OSINT** | Nmap, passive recon, information gathering |
+| 🌐 **Scanning & Enumeration** | Nmap, Gobuster, Dirsearch, FFUF, service enumeration |
+| 🎯 **Vulnerability Assessment** | Identifying, validating, and documenting vulnerabilities |
+| 💻 **Web Application Security** | Burp Suite, Nikto, SQLmap, web testing fundamentals |
+| 🔬 **Digital Forensics** | Email header analysis, forensic investigation workflows |
+| 📡 **Traffic Analysis** | Wireshark, packet inspection, protocol analysis |
+| 🐧 **Linux & Bash** | Kali Linux, command line, shell scripting |
+| ⚙️ **Security Automation** | Python CLI tools, assessment automation, report generation |
+| 🏴 **CTFs & Problem-Solving** | Cryptography challenges, enumeration, practical labs |
 
 </td>
-<td width="55%" align="center">
+<td align="center" width="32%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deeeejayy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=CCCCCC&rank_icon=github" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="hacking gif"/>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
+
+<!-- ═════════════════════════════ TOOLBOX ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;⛧ <code>root@deeeejayy:~# ls ./toolbox/</code> ⛧</h2>
+
+<!-- Based on the Technical Skills section of the October 2026 resume.
+     Keep a badge only if you can explain the tool and show basic hands-on use. -->
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Deeeejayy&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00CC66&currStreakLabel=00FF88&sideLabels=CCCCCC&dates=888888" />
+
+**Reconnaissance & Web Application Security**<br/>
+![Nmap](https://img.shields.io/badge/Nmap-1A0A12?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1A0A12?style=for-the-badge&logo=burpsuite&logoColor=C0143C)
+![Gobuster](https://img.shields.io/badge/Gobuster-1A0A12?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-1A0A12?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-1A0A12?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-1A0A12?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-1A0A12?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-1A0A12?style=for-the-badge&logo=metasploit&logoColor=C0143C)
+
+**Password Auditing & Network Analysis**<br/>
+![Hydra](https://img.shields.io/badge/Hydra-1A0A12?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1A0A12?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-1A0A12?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A0A12?style=for-the-badge&logo=wireshark&logoColor=C0143C)
+
+**Security Resources**<br/>
+![SecLists](https://img.shields.io/badge/SecLists-1A0A12?style=for-the-badge)
+
+**Operating Systems**<br/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1A0A12?style=for-the-badge&logo=kalilinux&logoColor=C0143C)
+![Linux](https://img.shields.io/badge/Linux-1A0A12?style=for-the-badge&logo=linux&logoColor=C0143C)
+![Windows](https://img.shields.io/badge/Windows-1A0A12?style=for-the-badge&logo=windows&logoColor=C0143C)
+
+**Programming & Scripting**<br/>
+![Python](https://img.shields.io/badge/Python-1A0A12?style=for-the-badge&logo=python&logoColor=C0143C)
+![Bash](https://img.shields.io/badge/Bash-1A0A12?style=for-the-badge&logo=gnubash&logoColor=C0143C)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A0A12?style=for-the-badge&logo=javascript&logoColor=C0143C)
+![HTML5](https://img.shields.io/badge/HTML5-1A0A12?style=for-the-badge&logo=html5&logoColor=C0143C)
+![CSS3](https://img.shields.io/badge/CSS3-1A0A12?style=for-the-badge&logo=css3&logoColor=C0143C)
+
+**Version Control**<br/>
+![Git](https://img.shields.io/badge/Git-1A0A12?style=for-the-badge&logo=git&logoColor=C0143C)
+
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════ -->
-<!--               ROADMAP + SNAKE GIF              -->
-<!-- ══════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:7A0F2B,100:0D0D0F&height=2" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30" /> **`$ grep -r "goals" ./roadmap/`**
+<!-- ═════════════════════════════ STATUS ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;† <code>root@deeeejayy:~# tail -f status.log</code> †</h2>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="68%" valign="top">
 
 ```bash
-2025  [⟳]  THM — Jr. Penetration Tester path
-2025  [⟳]  HTB — grinding machines & challenges
-2025  [🎯]  Reach TryHackMe Top 1%
-─────────────────────────────────────────────
-2026  [◌]  eJPT — Junior Penetration Tester
-2026  [◌]  CEH — Certified Ethical Hacker
-2026  [◌]  First CVE responsible disclosure
-─────────────────────────────────────────────
-2027  [◌]  CompTIA Security+
-2027  [◌]  OSCP — journey begins
+[✔]  COMPLETED     TryHackMe Cyber Security 101
+[✔]  ACHIEVED      EC-Council C|PENT
+──────────────────────────────────────────────────────
+[⟳]  IN PROGRESS   TryHackMe Junior Penetration Tester
+[⟳]  IN PROGRESS   Dark-web intelligence crawling engine
+[⟳]  IN PROGRESS   Security tooling & project improvements
+──────────────────────────────────────────────────────
+[→]  NEXT          Strengthen web application security skills
+[→]  NEXT          Expand digital forensics & investigation practice
+[→]  NEXT          Build more complete, documented security projects
 ```
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="32%">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="cyber gif" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="220" alt="cyber gif"/>
 
 </td>
 </tr>
 </table>
 
----
+<!-- ═════════════════════════════ CHANGELOG ═════════════════════════════ -->
 
-<!-- ══════════════════════════════════════════════ -->
-<!--                   FOOTER                       -->
-<!-- ══════════════════════════════════════════════ -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="28" align="absmiddle"/> &nbsp;🦇 <code>root@deeeejayy:~# cat CHANGELOG.md</code> 🦇</h2>
+
+<details>
+<summary><b>Patch notes &amp; known issues (click to expand)</b></summary>
+
+```diff
++ v∞.0.0  Learned that it is always DNS
++ Added   Strong opinions about wordlists
++ Added   Reflexive urge to run `nmap` on everything (authorized targets only)
+- Fixed   "Just one more box" at 2 AM (not actually fixed)
+! Known   Latency spikes before first coffee
+! Known   Reads packet captures for fun
+# Deprecated: password123, even in labs
+```
+
+</details>
+
+<!-- ═════════════════════════════ FOOTER ═════════════════════════════ -->
 
 <div align="center">
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-C0143C?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Deeeejayy-1A0A12?style=for-the-badge&logo=tryhackme&logoColor=C0143C)](https://tryhackme.com/p/Deeeejayy)
+
+[![Nucleus Discord](https://img.shields.io/badge/NUCLEUS-Join_the_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GmhA4NAhqv)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagadeeswar_M-1A0A12?style=for-the-badge&logo=linkedin&logoColor=C0143C)](https://www.linkedin.com/in/jagadeeswar-m/)
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagadeeswar_M-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jagadeeswar-m/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Deeeejayy-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF88)](https://tryhackme.com/p/Deeeejayy)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Deeeejayy&label=profile+views&color=00FF88&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Deeeejayy&label=PROFILE+VIEWS&color=7A0F2B&labelColor=0D0D0F&style=flat" />
 
 <br/><br/>
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
+```
+   /\                 /\
+  / \'._   (\_/)   _.'/ \
+ /_.''._'--('.')--'_.''._\
+ | \_ / `;=/ " \=;` \ _/ |
+  \/ `\__|`\___/`|__/`  \/
+        \(/|\)/       
+         " ` "
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF88&height=100&section=footer" />
+*Understand the attack. Investigate the evidence. Build the defense.*
+
+<sub>`works on my machine ¯\_(ツ)_/¯` &nbsp;·&nbsp; `exit 0`</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0F,50:2A0A18,100:7A0F2B&height=120&section=footer" width="100%"/>
 
 </div>
