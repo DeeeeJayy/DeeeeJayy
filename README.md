@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C0143C?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C0143C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deeeejayy.github.io/Portfolio/)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Deeeejayy-1A0A12?style=for-the-badge&logo=tryhackme&logoColor=C0143C)](https://tryhackme.com/p/Deeeejayy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A0A12?style=for-the-badge&logo=linkedin&logoColor=C0143C)](https://www.linkedin.com/in/jagadeeswar-m/)
